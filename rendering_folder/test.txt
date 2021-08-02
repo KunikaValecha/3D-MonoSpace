@@ -1,0 +1,2 @@
+label x y z xscale yscale zscale xrot yrot zrot
+car -30 5 -0 13.2 13.2 13.2 -90 0 90

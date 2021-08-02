@@ -1,0 +1,64 @@
+
+ countoured_image: /home/kunika/Documents/kitti_deeplab-master/test_final/contoured/000001.png
+Road_width: [130.0]
+Car_width: [33]
+
+ countoured_image: /home/kunika/Documents/kitti_deeplab-master/test_final/contoured/000031.png
+Road_width: [78.0, 107.0, 190.0, 333.0, 383.0, 533.0, 78.0, 626.0]
+Car_width: [46, 69, 128, 167, 182, 292, 32, 258]
+
+ countoured_image: /home/kunika/Documents/kitti_deeplab-master/test_final/contoured/000062.png
+Road_width: [205.0, 132.0, 509.0, 208.0]
+Car_width: [49, 42, 132, 76]
+
+ countoured_image: /home/kunika/Documents/kitti_deeplab-master/test_final/contoured/000106.png
+Road_width: [127.0, 113.0, 393.0, 253.0]
+Car_width: [42, 37, 218, 135]
+
+ countoured_image: /home/kunika/Documents/kitti_deeplab-master/test_final/contoured/000140.png
+Road_width: [139.0, 136.0, 186.0, 253.0]
+Car_width: [71, 74, 98, 149]
+
+ countoured_image: /home/kunika/Documents/kitti_deeplab-master/test_final/contoured/000175.png
+Road_width: [188.0, 130.0]
+Car_width: [176, 63]
+
+ countoured_image: /home/kunika/Documents/kitti_deeplab-master/test_final/contoured/000234.png
+Road_width: [95.0, 114.0, 114.0, 555.0, 214.0, 535.0, 114.0]
+Car_width: [37, 56, 149, 233, 101, 211, 66]
+
+ countoured_image: /home/kunika/Documents/kitti_deeplab-master/test_final/contoured/000291.png
+Road_width: [146.0, 44.0]
+Car_width: [77, 41]
+
+ countoured_image: /home/kunika/Documents/kitti_deeplab-master/test_final/contoured/000321.png
+Road_width: [72.0, 227.0, 480.0]
+Car_width: [38, 81, 310]
+
+ countoured_image: /home/kunika/Documents/kitti_deeplab-master/test_final/contoured/000347.png
+Road_width: [267.0, 123.0]
+Car_width: [82, 30]
+
+ countoured_image: /home/kunika/Documents/kitti_deeplab-master/test_final/contoured/000370.png
+Road_width: [23.0, 196.0, 305.0, 276.0, 557.0, 252.0]
+Car_width: [33, 105, 215, 198, 224, 120]
+
+ countoured_image: /home/kunika/Documents/kitti_deeplab-master/test_final/contoured/000393.png
+Road_width: [212.0, 352.0, 674.0, 122.0, 506.0]
+Car_width: [73, 159, 271, 89, 252]
+
+ countoured_image: /home/kunika/Documents/kitti_deeplab-master/test_final/contoured/000499.png
+Road_width: []
+Car_width: []
+
+ countoured_image: /home/kunika/Documents/kitti_deeplab-master/test_final/contoured/000530.png
+Road_width: [6.0, 138.0]
+Car_width: [35, 71]
+
+ countoured_image: /home/kunika/Documents/kitti_deeplab-master/test_final/contoured/000561.png
+Road_width: [960.0]
+Car_width: [294]
+
+ countoured_image: /home/kunika/Documents/kitti_deeplab-master/test_final/contoured/000600.png
+Road_width: [287.0, 297.0, 370.0]
+Car_width: [57, 61, 117]
